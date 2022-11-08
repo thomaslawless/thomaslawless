@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thomaslawless
 - 👀 I’m interested in Typescript, React, NextJS and SwiftUI
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI 
+- Working on [oddsare.app](https://www.oddsare.app)
 
 <!---
 thomaslawless/thomaslawless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
