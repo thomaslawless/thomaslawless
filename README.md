@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomaslawless
-- 👀 I’m interested in Typescript, NextJS, Remix and SwiftUI
+- 👀 I’m interested in Typescript, NextJS and .NET
 - 🌱 I’m currently learning SwiftUI 
 - Working on [oddsare.app](https://www.oddsare.app)
 
