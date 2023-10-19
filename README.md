@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thomaslawless
-- 👀 I’m interested in Typescript, NextJS and .NET
+- 👀 I’m interested in [Astro](https://github.com/withastro/astro) for web applications.
 - 🌱 I’m currently learning SwiftUI 
 - Working on [oddsare.app](https://www.oddsare.app)
 
