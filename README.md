@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thomaslawless
 - 👀 I’m interested in [Astro](https://github.com/withastro/astro) and [NextJS](https://nextjs.org/) for web applications.
-- 🌱 I’m currently learning SwiftUI 
 - Working on [oddsare.app](https://www.oddsare.app)
 
 <!---
